@@ -1,0 +1,241 @@
+Code,
+Name,
+Distance,
+PlacedBy,
+Archived,
+Bearing,
+CacheId,
+CacheType,
+Changed,
+Container,
+County,
+Country,
+Difficulty,
+DNF,
+DNFDate,
+Found,
+FoundCount,
+FoundByMeDate,
+FTF,
+LastFoundDate,
+LastGPXDate,
+LastLog,
+LastUserDate,
+Latitude,
+Lock,
+LongHtm,
+Longitude,
+NumberOfLogs,
+OwnerId,
+OwnerName<
+PlacedDate,
+ShortHtm,
+SmartName,
+SmartOverride,
+Source,
+State,
+TempDisabled,
+Terrain,
+Created,
+FavPoints,
+
+
+RangeIndex: 81 entries, 0 to 80
+Data columns (total 68 columns):
+Code             81 non-null object
+Name             81 non-null object
+Distance         81 non-null float64
+PlacedBy         81 non-null object
+Archived         81 non-null int64
+Bearing          81 non-null object
+CacheId          81 non-null object
+CacheType        81 non-null object
+Changed          81 non-null object
+Container        81 non-null object
+County           81 non-null object
+Country          81 non-null object
+Degrees          81 non-null float64
+Difficulty       81 non-null float64
+DNF              81 non-null int64
+DNFDate          81 non-null object
+Found            81 non-null int64
+FoundCount       81 non-null int64
+FoundByMeDate    81 non-null object
+FTF              81 non-null int64
+HasCorrected     81 non-null int64
+HasTravelBug     81 non-null int64
+HasUserNote      81 non-null int64
+LastFoundDate    81 non-null object
+LastGPXDate      81 non-null object
+LastLog          81 non-null object
+LastUserDate     81 non-null object
+Latitude         81 non-null object
+Lock             81 non-null int64
+LongHtm          81 non-null int64
+Longitude        81 non-null object
+MacroFlag        81 non-null int64
+MacroSort        81 non-null object
+NumberOfLogs     81 non-null int64
+OwnerId          81 non-null object
+OwnerName        81 non-null object
+PlacedDate       81 non-null object
+ShortHtm         81 non-null int64
+SmartName        81 non-null object
+SmartOverride    81 non-null int64
+Source           81 non-null object
+State            81 non-null object
+Symbol           81 non-null object
+TempDisabled     81 non-null int64
+Terrain          81 non-null float64
+UserData         81 non-null object
+User2            81 non-null object
+User3            81 non-null object
+User4            81 non-null object
+UserFlag         81 non-null int64
+UserNoteDate     81 non-null object
+UserSort         81 non-null int64
+Watch            81 non-null int64
+IsOwner          81 non-null int64
+LatOriginal      81 non-null object
+LonOriginal      81 non-null object
+Created          81 non-null object
+Status           81 non-null object
+Color            81 non-null object
+ChildLoad        81 non-null int64
+LinkedTo         81 non-null object
+GetPolyFlag      81 non-null int64
+Elevation        81 non-null float64
+Resolution       81 non-null object
+GcNote           81 non-null object
+IsPremium        81 non-null int64
+Guid             81 non-null object
+FavPoints        81 non-null int64
+dtypes: float64(5), int64(23), object(40)
+memory usage: 43.1+ KB
+
+colnames = (
+Code,
+Name,
+Distance,
+PlacedBy,
+Archived,
+Bearing,
+CacheId,
+CacheType,
+Changed,
+Container,
+County,
+Country,
+Difficulty,
+DNF,
+DNFDate,
+Found,
+FoundCount,
+FoundByMeDate,
+FTF,
+LastFoundDate,
+LastGPXDate,
+LastLog,
+LastUserDate,
+Latitude,
+Lock,
+LongHtm,
+Longitude,
+NumberOfLogs,
+OwnerId,
+OwnerName
+PlacedDate,
+ShortHtm,
+SmartName,
+SmartOverride,
+Source,
+State,
+TempDisabled,
+Terrain,
+Created,
+FavPoints
+
+     colnames = ("Code", "Name","Distance", "PlacedBy", "Archived", "Bearing",
+     "CacheId",
+     "CacheType",
+     "Changed",
+     "Container",
+     "County",
+     "Country",
+     "Difficulty",
+     "DNF",
+     "DNFDate",
+     "Found",
+     "FoundCount",
+     "FoundByMeDate",
+     "FTF",
+     "LastFoundDate",
+     "LastGPXDate",
+     "LastLog",
+     "LastUserDate",
+     "Latitude",
+     "Lock",
+     "LongHtm",
+     "Longitude",
+     "NumberOfLogs",
+     "OwnerId",
+     "OwnerName
+     "PlacedDate",
+     "ShortHtm",
+     "SmartName",
+     "SmartOverride",
+     "Source",
+     "State",
+     "TempDisabled",
+     "Terrain",
+     "Created",
+     "FavPoints
+     
+     
+     
+     Code,    
+     Name,
+     Distance,
+     PlacedBy,
+     Archived,
+     Bearing,
+     CacheId,
+     CacheType,
+     Changed,
+     Container,
+     County,
+     Country,
+     Difficulty,
+     DNF,
+     DNFDate,
+     Found,
+     FoundCount,
+     FoundByMeDate,
+     FTF,
+     LastFoundDate,
+     LastGPXDate,
+     LastLog,
+     LastUserDate,
+     Latitude,
+     Lock,
+     LongHtm,
+     Longitude,
+     NumberOfLogs,
+     OwnerId,
+     OwnerName
+     PlacedDate,
+     ShortHtm,
+     SmartName,
+     SmartOverride,
+     Source,
+     State,
+     TempDisabled,
+     Terrain,
+     Created,
+     FavPoints
+     
+     
+     Code, ,Name,Distance,PlacedBy,Archived,Bearing,CacheId,CacheType,Changed,Container,County,Country,Difficulty,DNF,DNFDate,Found,FoundCount,FoundByMeDate,FTF,LastFoundDate,LastGPXDate,LastLog,LastUserDate,Latitude,Lock,LongHtm,Longitude,NumberOfLogs,OwnerId,OwnerName,PlacedDate,ShortHtm,SmartName,SmartOverride,Source,State,TempDisabled,Terrain,Created,FavPoints
+     
+     
+     sqlquery = ("SELECT Code,Name,PlacedBy,Archived,Bearing,CacheId,CacheType,Changed,Container,Difficulty,LastFoundDate,LastGPXDate,LastLog,LastUserDate,Latitude,Lock,LongHtm,Longitude,NumberOfLogs,OwnerId,OwnerName,PlacedDate,ShortHtm,SmartName,SmartOverride,Source,State,TempDisabled,Terrain,Created,FavPoints FROM Caches")
