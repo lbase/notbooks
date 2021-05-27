@@ -11,7 +11,7 @@ Below the link for webpage for this park
 
 
 I'm going to disable this listing, pending permission. That disable note will explain how to proceed. "
-8,0,5,"disable from NA ","Greetings from a volunteer reviewer. Based on information in the  logs, your  listing has been disabled. 
+8,0,4,"disable from NA ","Greetings from a volunteer reviewer. Based on information in the  logs, your  listing has been disabled. 
 
 At a minimum, you need to post a log to the cache page within the next month, to let the community know that you intend to check on the cache.  If no log is posted by the cache owner,  the listing may be archived (permanently retired) by a reviewer. 
 
@@ -30,7 +30,7 @@ Archive, Enable, Owner Maintenance and Update Coordinates are all log types avai
 
 "
 12,1,1,"cemetery","Cemeteries are generally private properties not intended for recreation. Please provide the name and contact information for the person who gave you permission for a hide in this one."
-15,0,3,"disabling no permission/permit "," I'm temporarily disabling this cache listing to take it off the review queue.
+15,0,2,"disabling no permission/permit "," I'm temporarily disabling this cache listing to take it off the review queue.
 
  Please see the  Reviewer Note log for more information.
 
@@ -43,21 +43,18 @@ When you get permission for the cache, please:
  It is not necessary to email me, if you enable the cache, I'll see it. 
 
 I will archive the listing in a  month  if it doesn't get published. "
-16,0,1,"archive","Archive"
-20,0,12,"how to respond ","
-To post a reviewer note go to the cache page and click on Log Your Visit. Select ""Post Reviewer Note"" as the log type.
+20,0,10,"how to respond ","
+To post a reviewer note go to the cache page and click on respond in the box at the top, or Log Your Visit. Select ""Post Reviewer Note"" as the log type.
 Reviewer notes will be automatically removed when the cache is published.
 
-If there's no response from you in a week or two, I'll archive (permanently retire) the cache listing
-
-I do not monitor cache pages for changes. If you make edits without posting a NEW reviewer note, I will not know about those changes. 
+If there's no response from you in a week or two, I'll archive (permanently retire) the cache listing I do not monitor cache pages for changes. If you make edits without posting a NEW reviewer note, I will not know about those changes. 
  
  If you're reading this as email, don't reply to the sending address. It won't reach me. Follow the contact instructions above.
 
 Thank you,
 palmetto
-Groundspeak volunteer cache reviewer "
-23,0,11,"saturation","Hi {%owner%}
+ volunteer cache reviewer "
+23,0,9,"saturation","Hi {%owner%}
 
 Thanks for trying to add to the fun.
 I cannot publish this cache, unfortunately, as it is too near an existing cache,
@@ -70,7 +67,7 @@ Here's a link to a the [Help Center article](http://support.groundspeak.com//ind
 
 palmetto
 Groundspeak volunteer cache reviewer "
-26,0,2,"temp disable - saturation","I'm temporarily disabling this cache. Please see my Reviewer Note for more information. 
+26,0,1,"temp disable - saturation","I'm temporarily disabling this cache. Please see my Reviewer Note for more information. 
 When you've had a chance to move the cache and edit the cache page, click the ""Submit for Review"" button in the green box at the top of the cache page. 
 
  It is not necessary to email me, if you Submit the cache, I'll see it. 
@@ -100,12 +97,6 @@ There, under the current coordinates, you'll find a link, modify your coordinate
 
 You can change coordinates up to ~528 feet. More than that requires a reviewer, and generally should be a new cache.  though there may be times when keeping the current listing with a long move is appropriate. If it won't accept a change that you know to be under 528 feet, please carefully check the new coordinates that you've entered! If you typo a number it can make a huge difference. 
 "
-47,0,8,"terrain 1","As this cache has a terrain rating of ""1"" players will believe that the geocache can be found in a wheelchair. Please add the wheelchair accessible attribute for those who filter on it. If the cache is not wheelchair accessible then  increase the terrain to at least 1.5.  
-
-You can add attributes from the menu on the upper right corner of the cache page, or from the top of the cache edit page. 
-
-Cache rating system here http://www.clayjar.com/gcrs/ 
-"
 49,2,3," Rating caches","DIFFICULTY
 1 -  Easy. In plain sight or can be found in a few minutes of searching.
 
@@ -127,15 +118,11 @@ TERRAIN
 4 - Experienced outdoor enthusiasts only. (Terrain is probably off-trail. Will have one or more of the following: very heavy overgrowth, very steep elevation (requiring use of hands), or more than a 10 mile hike. May require an overnight stay.)
 
 5 -  Requires specialized equipment and knowledge or experience, (boat, 4WD, rock climbing, SCUBA, etc) or is otherwise extremely difficult. "
-50,0,6,"vacation ","Thanks for adding to the fun with a new cache.
+50,0,5,"vacation ","Thanks for adding to the fun with a new cache.
 
-Please describe your  maintenance plan for this cache in a NEW reviewer note (this is a type of log to the cache page). 
+Please describe your  [maintenance plan]( http://www.geocaching.com/about/guidelines.aspx#cachemaintenance) for this cache in a new reviewer note  a log to the cache page).   See the Help Center article - [link](https://www.geocaching.com/help/index.php?pg=kb.chapter&id=128&pgid=709) -  about placing caches far from home for info on that plan 
 
-http://www.geocaching.com/about/guidelines.aspx#cachemaintenance
-
-Because of the effort required to maintain a geocache, please place physical caches in your usual caching area and not while traveling. Caches placed during travel will likely not be published unless you are able to provide an acceptable maintenance plan. This plan must allow for a quick response to reported problems, and might include the username of a local cacher who will handle maintenance issues in your absence. Alternatively you might train a local person to maintain the cache. Document your maintenance plan in a Note to Reviewer on your cache listing. 
-
-**This should include contact information of the maintainer**
+**This plan should include contact information of the maintainer**
 
 I have this cache on hold and watch, nothing will happen here until you post a new reviewer note. If there's no response in a week, I'll archive (permanently retire) the listing. 
 
@@ -188,37 +175,15 @@ All logs on the cache page are sent to whatever email address you used for openi
 palmetto
 Groundspeak volunteer cache reviewer
 "
-214,0,17,"disabled by reviewer see notes","original title = [   ]
+214,0,14,"log trackable into unpubllished ","
+See this forum thread 
+https://forums.geocaching.com/GC/index.php?/topic/350660-how-do-i-link-a-trackable-to-a-cache/
 
-Hello ]username ]
-
-I'm sorry, but this can't be published as submitted; it was reviewed [date], with explanation of issues in the initial reviewer notes. The notes are on the cache page, and in your email.  
-
-I edited your cache title, hoping to get your attention. This is not the standard procedure. You should be seeing reviewer notes as they're emailed to you. They were emailed  using the email address you used to set up your Geocaching account. Please be sure you are receiving them!  Many times they're caught in spam filters; they come from ""noreply@geocaching.com"". Sometimes cache owners forget to check that email account.
-
-Receiving email from Geocaching.com is an important part of being a cache owner.
-
-You can edit the title back to the original form, and make the other changes as needed.  Please read the reviewer notes on your cache page and respond to them. If you can't find those emails, scroll down the cache page, the notes are there. 
-
-Once you've made needed changes, you'll need to click the Submit for Review button so the cache page appears on the review queue. 
-
-I will archive the listing if it isn't published in a couple of months.
-
-Thanks
-
-palmetto 
-Groundspeak volunteer 
+on how to log a trackable into an unpublished cache 
 "
-216,15,0,"New log types?","sat afternoon 31 replies 1965 views
-
-sun early am 31 replies 2023 views 
-
-http://forum
-
-http://forums.groundspeak.com/REV/index.php?showtopic=16965"
 217,1,11,"please check this ","Please check this. 
 If it's okay or if you repair it, then enable the listing. If you don't wish to repair it or own it any more, pick up any remaining bits of the cache and archive the listing, thanks.  "
-220,0,18,"end time event","Thanks for hosting an event. 
+220,0,15,"end time event","Thanks for hosting an event. 
 Per the listing guidelines, please include a start and end time for this.  End time allows the late arrivals to know when they can expect to still find the host in attendance. 
 http://www.geocaching.com/about/guidelines.aspx#event
 
@@ -248,50 +213,23 @@ In this spirit, we have decided to retire Geocaching Challenges.
 On an office wall here at HQ is a sign that reads, ""Let's make better mistakes tomorrow."" By accepting that we will sometimes get it wrong, we can allow ourselves to learn from and imagine new opportunities in the world of Geocaching. Our hope is we can take the lessons from Challenges and create better tools to guide you on your next adventure.
 "
 223,11,3,"throwdowns","http://support.groundspeak.com/index.php?pg=kb.page&id=427"
-224,15,1,"cache report submitted email","Thank you for submitting a new cache. We have received the following:
+224,15,0,"cache report submitted email","Thank you for submitting a new cache. We have received the following:
 
 GC4BTR9, GSW Lunch 
 http://coord.info/GC4BTR9
 
 It is peak season for cache placement. Your volunteer reviewer will strive to begin the review process within the next 7 days. Unpublished caches cannot be viewed by the general public. If you wish to view or edit your cache listing in the meantime, please login and use the URL above."
-225,15,2,"how to search gc ","http://forums.groundspeak.com/GC/index.php?showtopic=317188"
-226,15,3,"off set multi is not a puzzle ","http://forums.groundspeak.com/REV/index.php?showtopic=17568&st=0&p=218217
-
-Multis vs. Puzzles
-
-A cache that takes people to virtual waypoints where they have to count things or copy things off a sign (or something else similarly simple) and then do some simple math to convert those numbers into coordinates is not a puzzle cache. It is a multi-cache. Any of these that are already published and listed as puzzles can be considered grandfathered, but please guide cachers to list them as multis moving forward. If you're not sure which cache type they should be listed as, appeals is ready to help - just ask."
+225,15,1,"how to search gc ","http://forums.groundspeak.com/GC/index.php?showtopic=317188"
 227,5,13,"puzzle solving post niraD ","niraD's excellent puzzle solving post 
 http://forums.groundspeak.com/GC/index.php?showtopic=316351&view=findpost&p=5308692"
-228,15,4,"powertrail HWY ","I'm not comfortable with powertrailing US 41. Ie, don't try to fill in a lot of the blanks there. I'll start sending you for permission, which as far as I know, is impossible.
-Catch-22.
-
-Power runs on highways make geocaching a into high visibility, high impact game. I'll use the cache saturation guideline from time to time when cachers are filling in more major roads as power runs.
-
-    quote:
-    Groundspeak may further restrict cache listings in areas where cache saturation becomes a concern.
-
-
-(visit link)
-
-I've stopped publishing further caches along a couple of state roads in south Florida.
-Find some other quieter more rural road , and you could be okay.
-
-Geocaching is tolerated by FL state DOT now, mostly I suspect because they don't know that they could end it by simply contacting Groundspeak and asking for no more roadside caches. South Carolina and Virginia have already done this
-
-I see each roadside new power trail as another opportunity for geocaching to be noticed by FL DOT and possibly banned.
-
-The only official communication I've see with FL DOT is that they WILL NOT grant permission, as they think that granting permission creates liability. Geocaching is unauthorized non-transportation use of the right-of-way. They tolerate it, like a lot of public non-transportation use of the road right of ways, as a nuisance, what the public is doing. They remove caches that are troublesome.
-
-Makes me nervous... but the other perspective is that the more there is of it, the
-more that DOT sees it as a normal roadway use, or that perhaps there would be public backlash about banning it. LIke the huge mess over trying to ban roadside crosses. "
-229,15,5,"stagin admin ","http://admin.staging.geocaching.com"
-230,15,6,"staging","http://staging.geocaching.com/"
-231,0,9,"T1.5 with wheelchair attr","Your cache has the wheelchair attribute, but a terrain rating of 1.5
+229,15,2,"stagin admin ","http://admin.staging.geocaching.com"
+230,15,3,"staging","http://staging.geocaching.com/"
+231,0,7,"T1.5 with wheelchair attr","Your cache has the wheelchair attribute, but a terrain rating of 1.5
 
 If the cache is wheelchair accessible, the terrain rating is 1, by definition.
 
 Please fix what is in error, thanks"
-232,0,19,"useless hints ","Please, no useless hints.
+232,0,16,"useless hints ","Please, no useless hints.
  If you're not going to add useful information to the hint field, leave it blank. 
 [Hints]( http://support.groundspeak.com/index.php?pg=kb.page&id=222)"
 234,1,13,"additional waypoints staged ","Multi - QtoA waypoint at posted coordinates if virtual/data collect, SoaM waypoint at posted coordinates if there is a physical object that you placed.
@@ -299,7 +237,7 @@ Letterbox Hybrid - Same rules as a Multi.
 Wherigo - Same rules as a Multi.
 Unknown - Reference Point at the posted if they are bogus. QtoA waypoint at posted coordinates if virtual/data redirect, SoaM/Final waypoint at posted coordinates if physical.
 All of these can and should be listed as hidden waypoints unless you want to provide extra info to players in the additional waypoint itself."
-235,15,7,"finds accounts numbersMarch14","Average number of finds among all cachers (only counting those with at least 1 find): 109
+235,15,4,"finds accounts numbersMarch14","Average number of finds among all cachers (only counting those with at least 1 find): 109
 Median number of finds among all cachers (only counting those with at least 1 find): 8
 
 
@@ -308,13 +246,13 @@ Total count of cachers with at least 1 find who have logged on in the past year:
 
 http://forums.groundspeak.com/GC/index.php?showtopic=320490&view=findpost&p=5360143"
 236,4,12,"moun10bike post mar2014 ","http://forums.groundspeak.com/GC/index.php?showtopic=320490&st=0&p=5360143&#entry5360143"
-237,15,8,"palmetto pub stats threads","http://forums.groundspeak.com/REV/index.php?showtopic=7461
+237,15,5,"palmetto pub stats threads","http://forums.groundspeak.com/REV/index.php?showtopic=7461
 2008 report first time 
 http://forums.groundspeak.com/REV/index.php?showtopic=10479
 oct 2009 first time hides report  & Dec 10- jan 11
 http://forums.groundspeak.com/REV/index.php?showtopic=15729
 2012 report "
-238,15,9,"google search ","intext:jasmer intext:challenge intext:""(Unknown Cache)"" intext:""Geocache Description"" site:geocaching.com
+238,15,6,"google search ","intext:jasmer intext:challenge intext:""(Unknown Cache)"" intext:""Geocache Description"" site:geocaching.com
 "
 239,11,4,"dumb NA ","Hello, I was alerted to check this cache by the ""Needs Archived"" log. Reviewing past logs, I think  the archive request ought to be treated as a Needs Maintenance / DNF log.
 I am not taking any action at this time.
@@ -322,25 +260,6 @@ I am not taking any action at this time.
 Regards,
 palmetto 
 Geocaching.com Volunteer Cache Reviewer"
-240,15,10,"what's in the Intro App","Suggested caches include this filtering:
-
-    Traditionals only
-    5 mile radius of user's location
-    No premium member caches (unless the user is premium)
-    Terrain 1-3
-    Difficulty 1-2
-    Small, Regular, Large, and Micro (only D1-1.5)
-    Caches without NM or NA logs
-    Caches found in the last 300 days
-
-
-Once the caches have been flagged as good for a newbie, they are then sorted by:
-
-    Last found date
-    Size (large>small>micro)
-    Favorite points (highest to lowest)
-
-http://forums.groundspeak.com/GC/index.php?showtopic=317127&view=findpost&p=5320682"
 241,5,14,"archive old event ","Thanks for hosting. 
 
 ""After an event has occurred, the listing is to be archived by the geocache owner.""
@@ -366,20 +285,15 @@ http://forums.groundspeak.com/GC/index.php?showtopic=235302&view=findpost&p=4117
 247,7,6,"Chinldren post ","GEOCACHING DOESN'T CARE ABOUT CHINLDREN
 
 http://forums.groundspeak.com/GC/index.php?showtopic=55988"
-248,0,20,"reviewer note describe CSP","On the last page of the cache report form,  you're asked to post a Reviewer note, here's what is asked for:  
-"" Reviewer Notes
-You're almost done! Use this space to describe your geocache **location**, container, and how it's hidden to your reviewer. The more they know, the easier it is for them to publish your geocache. This note will not be visible to the public when your geocache is published.""
+248,0,17,"reviewer note describe CSP"," 
 
-Some examples:   pill bottle in a hole in the tree in a Name of City park, hide-a-key on guardrail on Name of Road, in water retrieved by pulling up line from Name of Park fishing pier, lamp post hide in commercial parking lot. 
+When you submit a cache  you're asked to post a Reviewer note, here's what is asked for:  
+"" Use this space to describe your geocache location, container, and how it's hidden to your reviewer. If you've made changes, tell the reviewer what changes you made. The more they know, the easier it is for them to publish your geocache. This note will not be visible to the public when your geocache is published. ""
 
-**location** is NOT, ""in a tree"", ""in a bush""  try to describe the location such that your coordinates and your location can be verified as a match.
+ Some examples:  pill bottle in a pre-exisiting hole in the tree in a Name of City park, hide-a-key on guardrail on Name of Road, in water retrieved by pulling up line from Name of Park fishing pier, lamp post hide in Name of Store, commercial parking lot.
+ Provide details of how your cache is hidden. Caches should never be buried (fully or partially). Holes should not be dug, pounded nor drilled into trees or structures that you don't own.   
 
-To log a NEW reviewer note, log onto the cache page, click ""log a visit"", select Post Reviewer Note.  Notes to reviewers are automatically removed before the caches are published, so no one will see your note but the reviewer.
-
-Nothing will happen here until you post a NEW Reviewer note. If there's no response in a couple of weeks, I'll archive (retire) the cache page.
-Thanks 
-
- "
+Please, try to describe the location such that your coordinates and your location can be verified as a match. Not as, ""in a tree"" or, ""in a bush"". Thanks"
 249,13,1,"favorites url ","
 
 http://www.geocaching.com/seek/nearest.aspx?state_id=10&sortdir=desc&sort=fav"
@@ -390,19 +304,12 @@ http://www.geocaching.com/seek/nearest.aspx?state_id=10&sortdir=desc&sort=fav"
 275,13,9,"find another player ","http://www.geocaching.com/find/default.aspx"
 277,13,11,"another GC Widget ","https://www.geocaching.com/seek/cache_details.aspx?wp=GC"
 280,13,12,"all coins list gc.com ","https://www.geocaching.com/track/geocoinslistall.aspx"
-281,15,13,"will this format? ","some stuff here about maintain
+285,15,8,"BMnumber search","https://www.geocaching.com/play/search?bm=BM5ZVQ9#Content"
+286,1,17,"project gc nm page ","https://project-gc.com/Profile/NeedsMaintenance?profile_name=Rikitan&submit=Filter"
+287,15,9,"Moun10Bike numbers finds 2018","https://forums.geocaching.com/GC/index.php?/topic/350028-caching-connoisseur/&do=findComment&comment=5741171
 
-    Because of the effort required to maintain a geocache, please place 
-    physical caches in your usual caching area and not while traveling. 
-    Caches placed during travel will likely not be published unless you are 
-    able to provide an acceptable maintenance plan. This plan must allow for
-    a quick response to reported problems, and might include the username of 
-    a local cacher who will handle maintenance issues in your absence. 
-    Alternatively you might train a local person to maintain the cache. 
-    Document your maintenance plan in a Note to Reviewer on your cache
-    listing. This should include contact information of the maintainer. The 
-    note will auto-delete on publication.
-"
+he average premium member finds about 92 caches a year (about 7.5 per month) while overall the rates are less than half that. The medians are likely well below even those numbers."
+288,15,10,"July 28 05 - publish and instant notify","https://forums.geocaching.com/GC/index.php?/topic/334560-cache-reviewers/&do=findComment&comment=5533277"
 70,4,0,"palmetto profile ","http://www.geocaching.com/profile/?id=514483 
 palmetto profile for Florida land manager policy on geocaching. "
 75,2,4,"bogus with 2 ","Your bogus coords need to be within 2 miles of your actual coords, per the listing guidelines. 
@@ -415,7 +322,7 @@ http://www.geocaching.com/about/guidelines.aspx#mystery
 82,4,2,"cache ID=number","http://www.geocaching.com/seek/cache_details.aspx?ID=500000"
 83,4,3,"user=number","http://www.geocaching.com/profile/?id=100"
 89,5,0,"FGA OLD ","http://65.34.18.106/"
-95,0,7,"business or product in page","Your cache page needs to be edited, per the commercial section of the listing guidelines, which prohibits naming or promoting businesses. Link for that section below, see point 5.
+95,0,6,"business or product in page","Your cache page needs to be edited, per the commercial section of the listing guidelines, which prohibits naming or promoting businesses. Link for that section below, see point 5.
  Referencing businesses by name is form of advertisement - product placement. 
 Like many free websites, Geocaching.com sells advertising, they don't give it away on cache pages. 
 
@@ -544,31 +451,17 @@ Then post a new reviewer note so I know to reopen this cache page. If you do not
 %ncdistm% = Distance between the two caches in meters (not rounded)."
 149,1,6,"admin page","www.geocaching.com/admin/review.aspx?wp=[GCCode]"
 151,5,6,"waypoint conversion address gc","http://www.geocaching.com/wpt/"
-152,0,10,"near homes","
+152,0,8,"near homes","
 Hello [username]
 
 
 Thanks for adding to the fun with a new cache. 
 
-your cache is in a residential neighborhood, quite visible to residents. 
-Did you speak with the homeowners nearby? do they know that there will be strangers driving into the neighborhood, parking oddly  and spending time practically in their front yard? Caches adjacent to private residences can be problematic.   It makes the homeowner unhappy to have this unexpected activity so near.
+Your cache is in a residential neighborhood, quite visible to residents. 
+Did you speak with the homeowners nearby? Homeowners within view of the cache need to know about it and be okay with it. Often it's easier to simply move it. 
 
-Making people uncomfortable in their own homes is not an acceptable consequence of playing the game of geocaching.  
-
-This can have unhappy consequences for seekers if  police are called on geocachers. A common response of unknowing homeowners is to assume some kind of drug drop (yes, this is utterly inane, because of course drug dealers leave unattended product in random drop spots for others to pick up and NOT pay for ;-)
-
-Telling them that a scavenger hunt item has been placed there will usually take care of this. Though sometimes their response will be to remove the cache. There's not much you can do about this, but at least you'll have tried. 
-
-I have this cache on HOLD and on watch. Please respond with a new reviewer note. 
-A reviewer note is a type of log to the cache page. 
-
-Nothing will happen here until you post a new reviewer note.  If you need a few days to find the time to go speak with them, just tell me that. I'll want to see another note when they've been informed. 
-
-**Alternately, and frankly better, find a new place for this.** 
-
-[Select an appropriate location and container](http://www.geocaching.com/about/guidelines.aspx#commonsense)
-
-Select an appropriate location and container. Think about how your container and the actions of geocachers seeking it will be perceived by the public. Although your cache will be hidden with landowner or land manager permission, concerned passersby who are unaware of geocaching, may view people searching the property as suspicious...use common sense when selecting hiding places and containers."
+  Caches adjacent to private residences can be problematic.   It can make the homeowner unhappy to have this unexpected activity so near. Making people uncomfortable in their own homes is not an acceptable consequence of playing the game of geocaching.  It can also have unhappy consequences for seekers if  police are called on geocachers.
+ "
 154,6,8,"scout caches","""I'm trying to get a troop of Girl Scouts to each make a cache and hide it on our field trips"".
 
 My experience is that scouts will not be able to maintain caches set on field trips. Please don't ask them to hide caches that they cannot be responsible for. Even if you are willing to maintain them, it seems to me that part of what they could enjoy and benefit from in cache ownership, is accepting the responsibility for the cache.
@@ -578,14 +471,7 @@ I've disabled them when they went missing, after being contacted by frustrated c
 
 *Recently, in south Florida, a BSA troop hid caches within walking range of the scouts. The boys can and are being responsible for the ownership of these hides.
 "
-156,0,13,"south at 28.10","http://www.geocaching.com/admin/queue.aspx?stateid=10&frl=24.5&tol=28.1670&ltype=lat&bc=khaki&pagesize=all"
-157,0,14,"no change coords update ","It appears that you tried to update the coordinates. 
-
-When you post Update coordinates, the original cache coordinates appear in boxes below the text pane. 
-You MUST edit the coords in those boxes to the  the new coords.Typing them into the text box is just text in a log. 
-
-Try it again, thanks. 
-You can delete this log. "
+156,0,11,"south at 28.10","http://www.geocaching.com/admin/queue.aspx?stateid=10&frl=24.5&tol=28.1670&ltype=lat&bc=khaki&pagesize=all"
 158,1,7,"agenda","Hi {username}
 
 Your cache page reads as a solicitation; it promotes {whatever}. {If relevant>>>} In general, a cache owner crosses the agenda line when they tell visitors what to do, feel, or think when they are at the location.
@@ -601,7 +487,7 @@ If you want to pursue publication of the cache as currently written, enable the 
 The cache will need to be reviewed by Geocaching.com staff for an exception to the listing guidelines by using appeals. I can help you with that process. {Ie, archive the cache, provide the appeals@geocaching.com email addy - wiki article appeals }
 "
 159,10,0,"view of random venting","10/11/10 views 7,154"
-160,0,4,"disable, minor edits","I'm temporarily disabling this cache, this takes it off the review queue. Please see my Reviewer Note  for more information
+160,0,3,"disable, minor edits","I'm temporarily disabling this cache, this takes it off the review queue. Please see my Reviewer Note  for more information
  
 When you've had a chance to edit the cache page. Submit for Review again! 
 
@@ -616,7 +502,7 @@ palmetto
  volunteer cache reviewer
 
 "
-162,0,15,"back of business","I no longer publish caches on the back of businesses where there is no parking, or expectation of public access. There have been too many unpleasant geocacher encounters with security and police. 
+162,0,12,"back of business","I no longer publish caches on the back of businesses where there is no parking, or expectation of public access. There have been too many unpleasant geocacher encounters with security and police. 
 
 Please provide the name and contact information of the person granting permission for this cache in a new reviewer note. "
 163,5,7,"BoJaB [posts","http://forums.groundspeak.com/REV/index.php?act=Search&CODE=getalluser&mid=752156"
@@ -635,34 +521,28 @@ http://forums.groundspeak.com/REV/index.php?showtopic=13199&pid=156548&st=0&#ent
 It cannot show the finals of Multi-caches or Mystery caches, as that would provide an easy method to work out where they are - skip actually working the Multi or the Mystery and instead do some triangulation on the planning map. ;-)
 
 "
-279,15,12,"playing with formatting ",">     quote goes here center'd but if you create each line exactly long enough 
-    can create a not so centered loook byt tu'ssl be a paind in the rear and, some care will need to be taken especially to have enough text t center 3  this is the  less than diacritic followed by a TAB to clear the bold green, quote marks thing. Still center justified though.. renderng it stoopid, unless you're writing poetry? "
 282,10,5,"bryan on challenges ","http://forums.groundspeak.com/REV/index.php?showtopic=15433&view=findpost&p=188768
 
 includes my definition of a challenge "
-283,0,22,"bad coords ","Thanks for adding to the fun with a new cache. 
+283,0,18,"bad coords ","Thanks for adding to the fun with a new cache. 
 
 Your coordinates are {place}. This is not match for your description. 
 
 
-You can see your coords as a pushpin on the maps on your cache page (EXCEPT for the first, Geocaching.com map, which does not show your unpublished cache).  The map links are below the hints field, under the heading, ""for online maps..."" 
+On the website, you can see your coords as a pushpin on the   cache page maps  (EXCEPT for the first, Geocaching.com map, which does not show your unpublished cache).  The map links are below the hints field, under the heading, ""for online maps..."" 
 The third, Google map link works well. 
 
 Check that map link to see what I'm seeing.  You need to get better coordinates for the cache, and edit the listing to those coordinates.  Here's a link to the Help Center article on getting [accurate coords](http://support.groundspeak.com/index.php?pg=kb.page&id=673)
 
 I'm going to disable this listing with my standard minor edits note. That log will explain how to proceed. "
-284,0,23,"throwdown, disable ","Hello Cache Owner, your cache went missing, and someone put out a [throwdown](https://www.geocaching.com/help/index.php?pg=kb.chapter&id=38&pgid=427). 
-You can accept that if you want to, but you need to edit the cache page to match their fake find cache. 
+284,0,19,"throwdown, disable "," Hello [Cache Owner] your cache went missing, and someone put out a [throwdown](https://www.geocaching.com/help/index.php?pg=kb.chapter&id=38&pgid=427).You can accept it, but you need to edit the cache page to match.  In the next month, please check the cache and repair, replace,  move, or edit the cache page as needed. Then:
 
-In the next month, please check the cache and repair, replace,  move, or edit the cache page as needed. 
-Then: 
+  *Enable the listing
+  *Post an Owner Maintenance log to remove the Needs Maintenance attribute icon if present
+  *If necessary, use an ""Update coordinates"" log to edit the cache coords.
+  *Or, archive the listing if you no longer wish to own it.  
 
-* Enable the listing
-* Post an Owner Maintenance log to remove the Needs Maintenance attribute icon if present
-* If necessary, use an ""Update coordinates"" log to edit the cache coords. 
-
-Archive the listing if you no longer wish to own it.  
-Archive, Enable, Owner Maintenance and Update Coordinates are all log types available to cache owners.
+Archive, Enable, Owner Maintenance and Update Coordinates are all log types available to cache owners. 
 
 
 
@@ -671,6 +551,7 @@ Archive, Enable, Owner Maintenance and Update Coordinates are all log types avai
 
 
 "
+289,2,9,"palmetto content","https://forums.geocaching.com/REV/index.php?/profile/514483-palmetto/content/"
 166,5,10,"download agreement","http://www.geocaching.com/software/agreement.aspx?ID=0"
 167,2,7,"download disclarmer ","When a cache requires a download, Groundspeak asks that a disclaimer be added to the page. 
 
@@ -717,7 +598,7 @@ If I don't hear from you in 3 weeks, I'll archive this listing and publish the o
 
 Please respond with a new reviewer note to this cache page (a log), not email to me,  thanks. "
 194,5,11,"log queue NA FL","http://www.geocaching.com/admin/lqueue.aspx?stateid=10"
-195,0,16,"distance between 2 sets of coords","http://boulter.com/gps/distance"
+195,0,13,"distance between 2 sets of coords","http://boulter.com/gps/distance"
 196,5,12,"distance between coords","http://boulter.com/gps/distance/"
 197,7,5,"Jeremy end Challenge caches?","http://forums.groundspeak.com/GC/index.php?showtopic=279441&view=findpost&p=4802458"
 198,1,9,"schools","You cache would seem to be adjacent to a school. Caches near schools are off-limits. 
@@ -763,11 +644,6 @@ All local laws apply.....
     Obtain the landowner's and/or land manager's permission before you hide any geocache, whether placed on private or public property. By submitting a geocache listing, you assure us that you have adequate permission to hide your cache in the selected location."
 209,12,0,"all caches on one page URL","append   &pagesize=all"
 210,8,8,"challenge article ","http://support.groundspeak.com/index.php?pg=kb.page&id=206"
-256,0,21,"remove boat attribute ","I took the liberty of removing the ""boat REQUIRED"" attribute from your cache page so i could publish it. 
-
-I appreciate that the current cache report system doesn't make this clear, it just shows a boat symbol and just says, ""boat"". People think this means boating available, like restrooms available. 
-If you look at the [Attributes Edit page](https://www.geocaching.com/hide/attributes.aspx?WptID=5621484) for your cache, you'll find boat under Equipment as either Required, or Not Requred.  
-"
 257,13,0,"benchmarking","http://www.geocaching.com/mark/"
 258,13,6,"bookmark lists ","http://www.geocaching.com/bookmarks/"
 264,12,3,"review queue US ","http://www.geocaching.com/admin/queue.aspx?countryid=2"
@@ -802,4 +678,4 @@ Geocaching.com Volunteer Cache Reviewer"
 
 
 "
-273,15,11,"bulk ACTIONS in GSAK ","http://forums.groundspeak.com/REV/index.php?showtopic=21754&view=findpost&p=282818"
+273,15,7,"bulk ACTIONS in GSAK ","http://forums.groundspeak.com/REV/index.php?showtopic=21754&view=findpost&p=282818"
