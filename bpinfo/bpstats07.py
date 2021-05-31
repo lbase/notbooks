@@ -6,11 +6,7 @@ from sqlalchemy import create_engine
 from sqlalchemy import select
 import matplotlib.pyplot as plt
 from matplotlib import cbook, dates
-#from matplotlib.ticker import Formatter
 import mplcursors
-# %matplotlib widget
-# this gives seperate window qt widget for figures
-# %matplotlib qt5
 eng = create_engine("mysql://rfile:simple@flatboy/rfile")
 myconn = eng.connect()
 # get data for sugar
@@ -31,15 +27,14 @@ fig3.set_figwidth(10)
 fig3.set_figheight(10)
 lines = ax3.plot(sugar8days.bsdate , sugar8days.bsugar, marker='o', linestyle='dashed' )
 mplcursors.cursor(lines) # or just mplcursors.cursor()
-#  plt.show()
 
-#blood pressure
+
+#blood pressure data 7 days
 bpsevendays = "SELECT `vsigns_bloodpressure`.`bpdate` ,`vsigns_bloodpressure`.`bpsys` AS `systolic`,`vsigns_bloodpressure`.`bpdia` AS `diastolic`,`vsigns_bloodpressure`.`bphr` AS `pulse` from  `vsigns_bloodpressure` WHERE `bpdate` > DATE_SUB(NOW(), INTERVAL 7 DAY)"
 bp7days = pd.read_sql_query(bpsevendays, myconn, parse_dates = "bpdate")
+# bar chart blood pressure
 x = np.arange(len(bp7days))  # the label locations
 width = 0.35  # the width of the bars
-
-# color picker gpick
 fig , ax = plt.subplots()
 rects1 = ax.bar(x - width/2, bp7days.systolic, width, label='systolic', facecolor='#00388F')
 rects2 = ax.bar(x + width/2, bp7days.diastolic, width, label='diastolic', facecolor='#8F5600')
