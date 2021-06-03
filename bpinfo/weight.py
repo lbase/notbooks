@@ -1,6 +1,7 @@
+#!/usr/bin/python3
 # rfile
 # from file:///home/rfile/python3/notebooks/bpinfo/weight.ipynb
-import os
+
 import sys
 import pandas as pd
 import numpy as np
@@ -27,8 +28,8 @@ def main(filename) :
         wtdata[["Weight","Body_Fat","Fat_Free_Body_Weight","Subcutaneous_Fat","Body_Water","Muscle_Mass","Skeletal_Muscles","Bone_Mass","Protein","BMR"]].apply(pd.to_numeric)
         wtdata = wtdata.sort_values('Time')
         wtdata.to_sql('fatty', myconn, if_exists='append', index=False)
-    except :
-        print("sorry, an error occured" )
+    except Exception as e:
+        print("sorry, an error occured  " , e)
 if __name__ == '__main__':
     filename = sys.argv[1]
     main(filename)
