@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # rfile
 # from file:///home/rfile/python3/notebooks/bpinfo/weight.ipynb
-
+import logging
 import sys
 import pandas as pd
 import numpy as np
@@ -12,6 +12,15 @@ def main(filename) :
 
         eng = create_engine("mysql://rfile:simple@flatboy/rfile")
         myconn = eng.connect()
+        # log
+        logger = logging.getLogger('dev')
+        logger.setLevel(logging.INFO)
+        fileHandler = logging.FileHandler('weight.log')
+        fileHandler.setLevel(logging.INFO)
+        logger.addHandler(fileHandler)
+        formatter = logging.Formatter('%(asctime)s  %(name)s  %(levelname)s: %(message)s')
+        fileHandler.setFormatter(formatter)
+        # log
         # read file
         wtdata = pd.read_csv(filename)
         # ALTER TABLE fatty AUTO_INCREMENT = 0
@@ -28,8 +37,10 @@ def main(filename) :
         wtdata[["Weight","Body_Fat","Fat_Free_Body_Weight","Subcutaneous_Fat","Body_Water","Muscle_Mass","Skeletal_Muscles","Bone_Mass","Protein","BMR"]].apply(pd.to_numeric)
         wtdata = wtdata.sort_values('Time')
         wtdata.to_sql('fatty', myconn, if_exists='append', index=False)
+        logger.info('query ran: %s ', filename )
     except Exception as e:
         print("sorry, an error occured  " , e)
+        logger.error('error: %s', filename)
 if __name__ == '__main__':
     filename = sys.argv[1]
     main(filename)
