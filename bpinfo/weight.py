@@ -10,7 +10,7 @@ from sqlalchemy import select
 def main(filename) :
     try:
 
-        eng = create_engine("mysql://rfile:simple@flatboy/rfile")
+        eng = create_engine("postgresql://rfile:simple@flatboy/rfile")
         myconn = eng.connect()
         # log
         logger = logging.getLogger('dev')
@@ -23,19 +23,19 @@ def main(filename) :
         # log
         # read file
         wtdata = pd.read_csv(filename)
-        # ALTER TABLE fatty AUTO_INCREMENT = 0
-        #wtdata = pd.read_csv('wt5-31-2021.csv')
+        # ALTER SEQUENCE fatty_wtid_seq RESTART WITH 10
+        wtdata.columns = wtdata.columns.str.lower()
         wtdata.columns = wtdata.columns.str.replace(' ', '_')
         wtdata.columns = wtdata.columns.str.replace('-', '_')
         # this one working
         # store time data in var to put it back after replace statement below - easier than iterate through the columns
         # which had to be done to get the float data
-        listtime = wtdata.Time = pd.to_datetime(wtdata.Time)
+        listtime = wtdata.time = pd.to_datetime(wtdata.time)
         wtdata = wtdata.replace(to_replace="\s\D*",  value='', regex=True)
-        wtdata.Time = listtime # time back in proper format for sql import
-        wtdata[["Weight","Body_Fat","Fat_Free_Body_Weight","Subcutaneous_Fat","Body_Water","Muscle_Mass","Skeletal_Muscles","Bone_Mass","Protein","BMR"]] = \
-        wtdata[["Weight","Body_Fat","Fat_Free_Body_Weight","Subcutaneous_Fat","Body_Water","Muscle_Mass","Skeletal_Muscles","Bone_Mass","Protein","BMR"]].apply(pd.to_numeric)
-        wtdata = wtdata.sort_values('Time')
+        wtdata.time = listtime # time back in proper format for sql import
+        wtdata[["weight", "bmi", "body_fat", "fat_free_body_weight","subcutaneous_fat", "visceral_fat","body_water","muscle_mass","skeletal_muscles", "bone_mass", "protein", "bmr"]] = \
+            wtdata[["weight", "bmi", "body_fat", "fat_free_body_weight","subcutaneous_fat", "visceral_fat","body_water","muscle_mass","skeletal_muscles", "bone_mass", "protein", "bmr"]].apply(pd.to_numeric)
+        wtdata = wtdata.sort_values('time')
         wtdata.to_sql('fatty', myconn, if_exists='append', index=False)
         logger.info('query ran: %s ', filename )
     except Exception as e:
